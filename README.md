@@ -12,20 +12,18 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 <br><p>And see more projects on this Github profile!</p>
 
 ### Courses I've Enrolled in at Harvard<hr>
-<p>
-	<data>Before joining UB, I was a student learning computer science at
-	<a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
-</p>
-	
-	<ul>
-	<li><a href="https://cs50.harvard.edu/web>Web Programming with Python and JavaScript </a></li>
-	<li><a href="https://cs50.harvard.edu/scratch>Intoduction to Programming with Scratch </a></li>
-	<li><a href="https://cs50.harvard.edu/cs50> Introduction to Computer Science</a> </li>
-	</ul>     
-		 
-
-
-
+<data>Before joining UB, I was a student learning computer science at
+<a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data><p>
+	   <li>
+	      <a href="https://cs50.harvard.edu/web> Web Programming with Python and JavaScript </a>
+	   </li>
+	   <li>
+	      <a href="https://cs50.harvard.edu/scratch> Intoduction to Programming with Scratch </a>
+	   </li>
+	   <li>
+	      <a href="https://cs50.harvard.edu/cs50> Introduction to Computer Science</a> 
+	   </li>
+<br>
 
 ### Contact Me <hr>
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
