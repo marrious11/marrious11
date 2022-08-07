@@ -20,9 +20,10 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 	<li></li>
 	<li></li>
 </ul>
-<ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
+
 
 ### Courses I Teach <hr>
 <ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
+
 ### Contact Me <hr>
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
