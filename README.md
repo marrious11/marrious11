@@ -25,8 +25,9 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 	      <a href="https://cs50.harvard.edu/cs50> Introduction to Computer Science</a> 
 	  </li></ul>
 <br>
-### Courses I can teach<hr>
-<ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li>
+
+### Courses I can teach <hr>
+<ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
 ### Contact Me <hr>
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
