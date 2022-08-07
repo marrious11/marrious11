@@ -14,24 +14,15 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 ### Courses I've Enrolled in at Harvard<hr>
 <p><data> Before joining UB, I was a student learning computer science at
 <a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
-	
-   <div>
-		<ol>
-			<li><a href="https://cs50.harvard.edu/web> Web Programming with Python and JavaScript </a></li>
-				
-			<li><a href="https://cs50.harvard.edu/scratch> Intoduction to Programming with Scratch </a></li>
-	
-			<li><a href="https://cs50.harvard.edu/cs50> Introduction to Computer Science</a></li>
-	
-		</ol>
-   </div>
-
-</p>
 <br>
-				
-				
-### Courses I Teach <hr>
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
 <ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
+### Courses I Teach <hr>
+<ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 ### Contact Me <hr>
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
