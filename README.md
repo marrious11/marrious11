@@ -14,6 +14,7 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 ### Courses I've Enrolled in at Harvard<hr>
 <p><data> Before joining UB, I was a student learning computer science at
 <a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
+	
 	<div>
 		<ol>
 			<li><a href="https://cs50.harvard.edu/web> Web Programming with Python and JavaScript </a></li>
@@ -24,10 +25,9 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 	
 		</ol>
        </div>
-</p>
-<br>
-
-
+</p><br>
+				
+				
 ### Courses I Teach <hr>
 <ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
