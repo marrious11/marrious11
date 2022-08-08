@@ -2,13 +2,10 @@
 I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 ## My Projects
-<ul>
-   <li><a href="https://honex.com">Honex</a><data>, an educational and mass agro-production of honey and 
-   healthy brevagies using computer science and mathematics</data></li>
-   <li><a href="https://grocery.com">Grosaries</a><data>, an online market about foods</data></li>
-   <li><a href="https://agentcalcul.com">Agentenacity</a><data>, an online game about computer science algo-principles</data></li>   
-</ul>
-<br><p>And see more projects on this Github profile!</p>
+- [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using computer science and mathematics.
+- [Grosaries](https://grocery.com), an online market about foods
+- [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles
+- [ ] And see more projects on this Github profile!
 
 ## Courses I've Enrolled in at Harvard
 <p><data> Before joining UB, I was a student learning computer science at
@@ -35,5 +32,5 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 <li>Education</li>
 </ul>
 
->## Contact Me
+> Contact Me
 You can contact me at <a href="mailto:sohmarrious@gmail.com"> `sohmarrious@gmail.com` </a>
