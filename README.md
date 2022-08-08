@@ -1,8 +1,7 @@
-### Hello 👋
-<hr style="border-collapse:collapse">
+# Hello 👋
 I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 
-### My Projects <hr>
+# My Projects
 <ul>
    <li><a href="https://honex.com">Honex</a><data>, an educational and mass agro-production of honey and 
    healthy brevagies using computer science and mathematics</data></li>
@@ -11,7 +10,7 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 </ul>
 <br><p>And see more projects on this Github profile!</p>
 
-### Courses I've Enrolled in at Harvard<hr>
+# Courses I've Enrolled in at Harvard
 <p><data> Before joining UB, I was a student learning computer science at
 <a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
 <br>
@@ -23,11 +22,11 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 </ul>
 
 
-### Courses I Teach <hr>
+# Courses I Teach
 <ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li>
 <li>The French Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
-### My interests<hr>
+# My interests
 <ul>
 <li><span>Foods and the Engineering behind food processing</span></li>
 <li>Agriculture: Mainly commercial farming</li>
@@ -35,5 +34,5 @@ I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
 <li>Computer Sciences</li>
 </ul>
 
-### Contact Me <hr>
+# Contact Me
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
