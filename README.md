@@ -39,4 +39,4 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 `This is me`
 
 >## Contact Me
-You can contact me at `<a href="mailto:sohmarrious@gmail.com"> sohmarrious@gmail.com</a>`
+`You can contact me at <a href="mailto:sohmarrious@gmail.com"> sohmarrious@gmail.com</a>`
