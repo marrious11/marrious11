@@ -1,7 +1,7 @@
-# Hello 👋
+## Hello 👋
 I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
-# My Projects
+## My Projects
 <ul>
    <li><a href="https://honex.com">Honex</a><data>, an educational and mass agro-production of honey and 
    healthy brevagies using computer science and mathematics</data></li>
@@ -10,7 +10,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 </ul>
 <br><p>And see more projects on this Github profile!</p>
 
-# Courses I've Enrolled in at Harvard
+## Courses I've Enrolled in at Harvard
 <p><data> Before joining UB, I was a student learning computer science at
 <a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
 <br>
