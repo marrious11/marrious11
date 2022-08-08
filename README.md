@@ -14,12 +14,12 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 <p><data> Before joining UB, I was a student learning computer science at
 <a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
 <br>
-<ul>
-	<li><a href="https://cs50.harvard.edu/x/2022/">CS50’s own OpenCourseWare</a></li>
-	<li><a href="https://cs50.harvard.edu/x/2022/notes/0/">CS50's Introduction to Computer Science</a></li>
-	<li><a href= "https://cs50.harvard.edu/web/2020/">Web Programming with Python and JavaScript</a></li>
-	<li><a href="https://cs50.harvard.edu/scratch/2021/">Introduction to Programming with Scratch</a></li>
-</ul>
+
+- <a href="https://cs50.harvard.edu/x/2022/">CS50’s own OpenCourseWare</a>
+- <a href="https://cs50.harvard.edu/x/2022/notes/0/">CS50's Introduction to Computer Science</a>
+- <a href= "https://cs50.harvard.edu/web/2020/">Web Programming with Python and JavaScript</a>
+- <a href="https://cs50.harvard.edu/scratch/2021/">Introduction to Programming with Scratch</a>
+
 
 
 ## Courses I Teach
