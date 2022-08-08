@@ -32,6 +32,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 <li>Agriculture: Mainly commercial farming</li>
 <li>Religion: Spiritual things of Jehovah God.</li>
 <li>Computer Sciences</li>
+<li>Education</li>
 </ul>
 
 # Contact Me
