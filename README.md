@@ -8,14 +8,13 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 - [ ] And see more projects on this Github profile!
 
 ## Courses I've Enrolled in at Harvard
-<p><data> Before joining UB, I was a student learning computer science at
-<a href="https://cs50.harvard.edu">CS50, Harvard University.</a> While at Harvard, I enrolled into the following courses.</data>
-<br>
+Before joining UB, I was a student learning computer science at
+[CS50, Harvard University](https://cs50.harvard.edu). While at Harvard, I enrolled into the following courses.
 
-- <a href="https://cs50.harvard.edu/x/2022/">CS50’s own OpenCourseWare</a>
-- <a href="https://cs50.harvard.edu/x/2022/notes/0/">CS50's Introduction to Computer Science</a>
-- <a href= "https://cs50.harvard.edu/web/2020/">Web Programming with Python and JavaScript</a>
-- <a href="https://cs50.harvard.edu/scratch/2021/">Introduction to Programming with Scratch</a>
+- [CS50’s own OpenCourseWare](https://cs50.harvard.edu/x/2022/)
+- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/notes/0/)
+- [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+- [Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2021/)
 
 
 
@@ -35,5 +34,5 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
   
 > Contact Me
 
-You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) or 
-see @marrious11
+You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) 
+or see @marrious11.
