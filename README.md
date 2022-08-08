@@ -38,5 +38,5 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 > My personality!
 `This is me`
 
-#### Contact Me
+## Contact Me
 <p>You can contact me at <a href="mailto:sohmarrious@gmail.com">sohmarrious@gmail.com</a></p>
