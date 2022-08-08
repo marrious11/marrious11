@@ -1,5 +1,5 @@
 # Hello 👋
-I'm Mario, a Computer Scientist at <a href="https://ubuea.cm">UB</a>.
+I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 # My Projects
 <ul>
