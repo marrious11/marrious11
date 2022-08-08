@@ -35,4 +35,4 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
   
 > Contact Me
 
-You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com)
+You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) or see @marrious11
