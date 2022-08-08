@@ -28,7 +28,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 ## My interests
 
--<span>Foods and the Engineering behind food processing</span>
+- <span>Foods and the Engineering behind food processing</span>
 <ul><li>Agriculture: Mainly commercial farming</li>
 <li>Religion: Spiritual things of Jehovah God.</li>
 <li>Computer Sciences</li>
