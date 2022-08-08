@@ -31,6 +31,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 - Computer Sciences
 - Education
 
-#  
+# 
+  
 > Contact Me
 You can contact me at <a href="mailto:sohmarrious@gmail.com"> `sohmarrious@gmail.com` </a>
