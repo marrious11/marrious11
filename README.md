@@ -22,11 +22,11 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 </ul>
 
 
-# Courses I Teach
+## Courses I Teach
 <ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li>
 <li>The French Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
-# My interests
+## My interests
 <ul>
 <li><span>Foods and the Engineering behind food processing</span></li>
 <li>Agriculture: Mainly commercial farming</li>
