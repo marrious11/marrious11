@@ -27,16 +27,13 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 <li>The French Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
 
 ## My interests
-<ul>
-<li><span>Foods and the Engineering behind food processing</span></li>
-<li>Agriculture: Mainly commercial farming</li>
+
+-<span>Foods and the Engineering behind food processing</span>
+<ul><li>Agriculture: Mainly commercial farming</li>
 <li>Religion: Spiritual things of Jehovah God.</li>
 <li>Computer Sciences</li>
 <li>Education</li>
 </ul>
-
-> My personality!
-`This is me`
 
 >## Contact Me
 You can contact me at <a href="mailto:sohmarrious@gmail.com"> `sohmarrious@gmail.com` </a>
