@@ -20,17 +20,17 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 
 ## Courses I Teach
-<ol><li>English Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li>
-<li>The French Language on <a href="https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593">preply.com</a></li></ol>
+1. English Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
+2. The French Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 
 ## My interests
 
-- <span>Foods and the Engineering behind food processing</span>
-<ul><li>Agriculture: Mainly commercial farming</li>
-<li>Religion: Spiritual things of Jehovah God.</li>
-<li>Computer Sciences</li>
-<li>Education</li>
-</ul>
-#
+- Foods and the Engineering behind food processing
+- Agriculture: Mainly commercial farming
+- Religion: Spiritual things of Jehovah God.
+- Computer Sciences
+- Education
+
+#  
 > Contact Me
 You can contact me at <a href="mailto:sohmarrious@gmail.com"> `sohmarrious@gmail.com` </a>
