@@ -34,4 +34,5 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 # 
   
 > Contact Me
-You can contact me at <a href="mailto:sohmarrious@gmail.com"> `sohmarrious@gmail.com` </a>
+
+You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com)
