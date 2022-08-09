@@ -34,5 +34,5 @@ Before joining UB, I was a student learning computer science at
   
 > Contact Me
 
-You can contact me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) 
+You can reach me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) 
 .
