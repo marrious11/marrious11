@@ -29,6 +29,7 @@ Before joining UB, I was a student learning computer science at
 - Religion: Spiritual things of Jehovah God.
 - Computer Sciences
 - Education
+`Public Speaking`
 
 # 
   
