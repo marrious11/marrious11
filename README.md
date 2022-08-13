@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm Mario, a Computer Scientist at [UB](https://ubuea.cm). Thanks 
+I'm Mario, a Computer Scientist at [UB](https://ubuea.cm). 
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using computer science and mathematics.
