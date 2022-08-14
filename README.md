@@ -27,8 +27,7 @@ Before joining UB, I was a student learning computer science at
 - Foods and the Engineering behind food processing
 - Agriculture: Mainly commercial farming
 - Computer Sciences
-- Education
-`Public Speaking`
+- Education`Public Speaking`
 
 # 
   
