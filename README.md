@@ -3,7 +3,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using computer science and mathematics.
-- [Grosaries](https://grocery.com), an online market about foods
+- [Grosaries](https://grocery.com), an online market about foods.
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles
 - [ ] And see more projects on this Github profile!
 
