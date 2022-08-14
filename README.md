@@ -26,7 +26,6 @@ Before joining UB, I was a student learning computer science at
 
 - Foods and the Engineering behind food processing
 - Agriculture: Mainly commercial farming
-- Religion: Spiritual things of Jehovah God.
 - Computer Sciences
 - Education
 `Public Speaking`
