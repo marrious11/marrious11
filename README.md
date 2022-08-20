@@ -6,7 +6,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 - [Grosaries](https://grocery.com), an online market about foods.
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles
 - [ ] And see more projects on my Github profile!
-### - [ ] Ongoing projects...
+###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea.
 - [Outreachy](https://www.outreachy.org/)
 
