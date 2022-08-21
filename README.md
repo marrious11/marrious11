@@ -7,7 +7,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles
 - [ ] And see more projects on my Github profile!
 ###  Ongoing projects...
-- Google Summer of Code (Gsoc) @GDG Buea. `from April 20`
+- Google Summer of Code (Gsoc) @GDG Buea. `from April 202`
 - [Outreachy](https://www.outreachy.org/)
 
 ## Courses I've Enrolled in at Harvard
