@@ -1,4 +1,4 @@
-                    ## Hello 👋12345678
+                    ## Hello 👋
 I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 ## My Projects
