@@ -1,4 +1,4 @@
-                    ## Hello 👋3
+                    ## Hello 👋
 I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).1
 
 ## My Projects
@@ -9,6 +9,7 @@ I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).1
 ###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
 - [Outreachy](https://www.outreachy.org/)  `from December 2022 to match 2023`
+- [Momark](https://momark.com) `upcoming event`
 
 ## Courses I've Enrolled in at Harvard
 Before joining UB, I was a student learning computer science at
