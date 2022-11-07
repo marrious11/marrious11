@@ -1,15 +1,15 @@
-                    ## Hello 👋
+## Hello 👋
 I'm Mario, a Computer Scientist at [UB](https://ubuea.cm).
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using computer science and mathematics.
-- [Grosaries](https://grocery.com), an online market about foods.
-- [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles
+- [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours
+- [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles. Still featuring...
 - [ ] And see more projects on my Github profile!
 ###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
 - [Outreachy](https://www.outreachy.org/)  `from December 2022 to match 2023`
-- [Momark](https://momark.com) `upcoming event`
+- [Momark](https://momark.site) `now running live`
 
 ## Courses I've Enrolled in at Harvard
 Before joining UB, I was a student learning computer science at
