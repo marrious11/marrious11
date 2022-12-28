@@ -30,7 +30,7 @@ Before joining UB, I was a student learning computer science at
 
 - Computer Sciences
 - Food Engineering && food processing
--Agriculture: Mainly commercial farming
+- Agriculture: Mainly commercial farming
 - Education`Public Speaking`
 
 # 
