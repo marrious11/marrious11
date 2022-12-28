@@ -29,7 +29,7 @@ Before joining UB, I was a student learning computer science at
 ## My interests
 
 - Computer Sciences
-- Food Engineering| food processing
+- Food Engineering && food processing
 -Agriculture: Mainly commercial farming
 - Education`Public Speaking`
 
