@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `Tiny Change Remarkable Results`
+I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `Tiny Changes, Remarkable Results`
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using computer science and mathematics.
