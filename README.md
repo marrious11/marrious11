@@ -8,7 +8,7 @@ I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `T
 - [ ] And see more projects on my Github profile!
 ###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
-- [Outreachy](https://www.outreachy.org/)  `from December 2022 to match 2023`
+- [Outreachy](https://www.outreachy.org/)  `from December 2022 to march 2023`
 - [Momark](https://momark.site) `now running live`
 
 ## Courses I've Enrolled in at Harvard
