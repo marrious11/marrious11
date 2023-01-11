@@ -24,6 +24,10 @@ Before joining UB, I was a student learning computer science at
 Here are just some of the past few years’ final projects, randomly ordered!
 - [Gallery of Final Projects](https://cs50.harvard.edu/x/2023/gallery/)
 
+The final project is your opportunity to take your newfound savvy with programming out for a spin and develop your very own piece of software.
+Creating an entire project may seem daunting. Here is a guide on how to [Getting Started](https://cs50.harvard.edu/x/2023/project/) with your project
+There you'l find  some questions that you should think about as you start:
+
 
 ## Courses I Teach
 1. English Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
