@@ -15,7 +15,7 @@ I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `T
 Before joining UB, I was a student learning computer science at
 [CS50, Harvard University](https://cs50.harvard.edu). While at Harvard, I enrolled into the following courses.
 
-- [CS50’s own OpenCourseWare](https://cs50.harvard.edu/x/2022/)
+- [CS50’s own OpenCourseWare](https://cs50.harvard.edu/x/2023/)
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/notes/0/)
 - [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 - [Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/2021/)
