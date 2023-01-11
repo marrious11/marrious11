@@ -13,7 +13,7 @@ I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `T
 
 ## Courses I've Enrolled in at Harvard
 Before joining UB, I was a student learning computer science at
-[CS50, Harvard University](https://cs50.harvard.edu). While at Harvard, I enrolled into the following courses.
+[CS50, Harvard University](https://cs50.harvard.edu). While at Harvard, I [enrolled](https://submit.cs50.io/courses/) into the following courses.
 
 - [CS50’s own OpenCourseWare](https://cs50.harvard.edu/x/2023/)
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/notes/0/)
