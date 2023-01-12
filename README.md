@@ -37,7 +37,7 @@ There you'l find  some questions that you should think about as you start:
 
 - Computer Sciences
 - [Food Engineering](https://en.wikipedia.org/wiki/Food_engineering) && [food Technology](https://en.wikipedia.org/wiki/Food_technology)
-  > Example interest [Apeel Sciences]
+  > Example interest [Apeel Sciences](https://info.apeelsciences.com/supplier-solutions)
 - Agriculture: Mainly commercial farming
 - Education`Public Speaking`
 
