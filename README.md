@@ -36,7 +36,8 @@ There you'l find  some questions that you should think about as you start:
 ## My interests
 
 - Computer Sciences
-- Food Engineering && food processing
+- [Food Engineering](https://en.wikipedia.org/wiki/Food_engineering) && [food Technology](https://en.wikipedia.org/wiki/Food_technology)
+  > Example interest [Apeel Sciences]
 - Agriculture: Mainly commercial farming
 - Education`Public Speaking`
 
