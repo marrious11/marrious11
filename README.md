@@ -9,6 +9,19 @@ I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `T
 ###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
 - [Outreachy](https://www.outreachy.org/)  `from December 2022 to march 2023`
+ 
+### Important dates
+May 2023 internships:
+
+✍🏿 Intern applications are accepted from January 16, 2023 to February 6, 2023
+
+📑 Internship project list is finalized in early March 2023
+
+🙋🏽 Mentoring organization sign up is open through February 10, 2023. Project submission deadline is February 24, 2023.
+
+🙌🏿 Internships run late May 2023 to late August 2023
+
+
 - [Momark](https://momark.site) `now running live`
 
 ## Courses I've Enrolled in at Harvard
