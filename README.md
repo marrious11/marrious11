@@ -13,7 +13,7 @@ I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `T
 ### Important dates
 May 2023 internships:
 
-✍🏿 Intern applications are accepted from January 16, 2023 to February 6, 2023
+✍🏿 [Intern applications](https://www.outreachy.org/apply/) are accepted from January 16, 2023 to February 6, 2023
 
 📑 Internship project list is finalized in early March 2023
 
