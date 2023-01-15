@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello!
 I'm Mario, a Computer Science student at [UB](https://ubuea.cm). I believe in `Tiny Changes, Remarkable Results`
 
 ## My Projects
