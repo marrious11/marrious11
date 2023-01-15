@@ -5,7 +5,7 @@ I'm Mario, a Computer Science student and Food Engineer Enthusiast, leaving at S
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using knowledge of computer science and mathematics.
 - [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles. Still featuring...
-- [ ] And see more projects on my Github profile!
+ And see more projects on my Github profile!
 ###  Ongoing projects...
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
 - [Outreachy](https://www.outreachy.org/)  `from December 2022 to march 2023`
