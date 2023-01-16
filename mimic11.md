@@ -13,9 +13,7 @@ May 2023 internships:
 🙋🏽 Mentoring organization sign up is open through February 10, 2023. Project submission deadline is February 24, 2023.
 
 🙌🏿 Internships run late May 2023 to late August 2023
-
-
-
+<hr>
 
 ##### Suggested Final year project for University Grads
 Here are just some of the past few years’ final projects, randomly ordered!
