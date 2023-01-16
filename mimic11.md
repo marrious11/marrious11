@@ -15,7 +15,7 @@ May 2023 internships:
 🙌🏿 Internships run late May 2023 to late August 2023
 
 
-- [Momark](https://momark.site) `now running live`
+
 
 ##### Suggested Final year project for University Grads
 Here are just some of the past few years’ final projects, randomly ordered!
