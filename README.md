@@ -6,7 +6,7 @@ I'm Mario, a Computer Science student and Food Engineer Enthusiast, leaving at S
 - [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles. Still featuring...
 
- And see more projects on my Github profile!
+ And see more projects on my mimic11-Github profile!
 
 
 ## Courses I've Enrolled in at Harvard
