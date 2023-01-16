@@ -17,6 +17,14 @@ May 2023 internships:
 
 - [Momark](https://momark.site) `now running live`
 
+##### Suggested Final year project for University Grads
+Here are just some of the past few years’ final projects, randomly ordered!
+- [Gallery of Final Projects](https://cs50.harvard.edu/x/2023/gallery/)
+
+The final project is your opportunity to take your newfound savvy with programming out for a spin and develop your very own piece of software.
+Creating an entire project may seem daunting. Here is a guide on how to [Getting Started](https://cs50.harvard.edu/x/2023/project/) with your project
+There you'l find  some questions that you should think about as you start:
+
 
 
 
