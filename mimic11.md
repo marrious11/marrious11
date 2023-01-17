@@ -29,5 +29,5 @@ There you'l find  some questions that you should think about as you start:
 
 
 
-What can you refer to things you discover while learning in [Buea](https://ubuea.cm)
-Kinesthesia: Being able to actually teach yourself how you should move inorder to successfully complete whatever task is at hand.
+What can you refer to things you discover while learning in [Buea](https://ubuea.cm):
+> Kinesthesia: Being able to actually teach yourself how you should move inorder to successfully complete whatever task is at hand.
