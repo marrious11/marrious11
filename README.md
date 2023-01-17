@@ -1,5 +1,5 @@
 ## Hello!
-I'm Mario, a Computer Science student and Food Engineer Enthusiast, leaving at Silicon Mountain [Buea](https://ubuea.cm).
+I'm Mario, a Computer Science student, leaving at Silicon Mountain [Buea](https://ubuea.cm).
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using knowledge of computer science and mathematics.
