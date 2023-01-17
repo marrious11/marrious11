@@ -1,4 +1,4 @@
-### Some Update continuation from @ marrious11
+### Some Update continuation from marrious11
 
 
 ###  Ongoing projects...
