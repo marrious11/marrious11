@@ -33,9 +33,7 @@ Before joining UB, I was a student learning computer science at
   > Example interest [Gro intelligence](https://app.gro-intelligence.com/home)
 - Education`Public Speaking`
 
-# 
-  
-> Contact Me
+# Contact Me
 
 You can reach me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com) 
 .
