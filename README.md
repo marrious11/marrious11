@@ -23,14 +23,7 @@ As a Computer Science student enrolled into the [University of Buea](), I took t
 1. English Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 2. The French Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 
-## My interests
 
-- Computer Sciences
-- [Food Engineering](https://en.wikipedia.org/wiki/Food_engineering) && [food Technology](https://en.wikipedia.org/wiki/Food_technology)
-  > Example interest [Apeel Sciences](https://info.apeelsciences.com/supplier-solutions)
-- Agriculture: [The Future of Food](https://axiosthefutureoffood.splashthat.com/tweet3) 
-  > Example interest [Gro intelligence](https://app.gro-intelligence.com/home)
-- Education`Public Speaking`
 
 # Contact Me
 
