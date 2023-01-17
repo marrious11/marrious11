@@ -10,7 +10,7 @@ I'm Mario, a Computer Science student and Food Engineer Enthusiast, leaving at S
 
 
 ## Courses I've Enrolled in at Harvard
-While being a Computer Science student enrolled into the [University of Buea](), I took the following [CS50](https://cs50.harvard.edu) [courses](https://submit.cs50.io/courses/) at Harvard University:
+As a Computer Science student enrolled into the [University of Buea](), I took the following [CS50](https://cs50.harvard.edu) [courses](https://submit.cs50.io/courses/):
 
 - [CS50’s own OpenCourseWare](https://cs50.harvard.edu/x/2023/)
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/notes/0/)
