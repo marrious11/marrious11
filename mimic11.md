@@ -4,7 +4,7 @@
 ###  Ongoing projects...
 - [Momark](https://momark.site) `now running live`
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`
-- [Outreachy](https://www.outreachy.org/)  `from December 2022 to march 2023`
+- [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
  
 ### Important dates
 May 2023 internships:
