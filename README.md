@@ -23,7 +23,8 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 1. English Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 2. The French Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 
-
+### Interests
+> Aspiring to work with [camsol.io](url)
 
 # Contact Me
 
