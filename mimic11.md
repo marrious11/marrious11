@@ -2,7 +2,7 @@
 
 
 ###  Ongoing projects...
-- [Momark](https://momark.site) `now running live`
+- [Momark](https://momark.site) `now running live`Now technically on a pause 🔄
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`. I may not take the GSoC internship again due to outreachy one
 - [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
  
