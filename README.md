@@ -26,7 +26,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 ### Interests
 > Aspiring to work with [camsol.io](url)
 
-###
+### Pronoun
 
 ## Contact Me
 
