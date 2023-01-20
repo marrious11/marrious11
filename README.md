@@ -28,6 +28,6 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 
 ###
 
-# Contact Me
+## Contact Me
 
 You can reach me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com).
