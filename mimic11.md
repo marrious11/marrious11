@@ -1,10 +1,10 @@
+
+# My Academic School Calender
+
+[calender of activities 2022_2023.pdf](https://github.com/marrious11/marrious11/files/10476752/calender.of.activities.2022_2023.pdf)
+
+
 ### Some Update continuation from marrious11
-
-
-###  Ongoing projects...
-- [Momark](https://momark.site) `now running live`Now technically on a pause 🔄
-- Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`. I may not take the GSoC internship again due to outreachy one
-- [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
  
 ### Important dates
 May 2023 internships:
@@ -32,3 +32,8 @@ There you'l find  some questions that you should think about as you start:
 What can you refer to things you discover while learning in [Buea](https://ubuea.cm):
 > Kinesthesia: Being able to actually teach yourself how you should move inorder to successfully complete whatever task is at hand.
 >  I believe in `Tiny Changes, Remarkable Results` and Food Engineer Enthusiast.
+
+###  Ongoing projects...
+- [Momark](https://momark.site) `now running live`Now technically on a pause 🔄
+- Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`. I may not take the GSoC internship again due to outreachy one
+- [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
