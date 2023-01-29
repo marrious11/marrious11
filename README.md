@@ -24,7 +24,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 2. The French Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 
 ### Interests
-> Aspiring to work with [camsol.io](url) or Outreachy 💞
+> Aspiring to work with [camsol.io](https://camsol.io/) or Outreachy 💞
 
 ### Pronoun
 - [ ] He/Him & His
