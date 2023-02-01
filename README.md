@@ -3,7 +3,7 @@ I'm Mario, a Computer Science student living at [Silicon Mountain](https://g.co/
 
 ## My Projects
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using knowledge of computer science and mathematics.
-- [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours
+- [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours.
 - [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles. Still featuring...
 
  And see more projects on my mimic11-Github profile!
