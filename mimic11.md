@@ -5,7 +5,7 @@
 > 
 ### Some Update continuation from marrious11
 #### Optimizing Leraning
-> 
+> If learning a framework's pattern will be usefull, then learn it.This
  
 ### Important dates
 May 2023 internships:
