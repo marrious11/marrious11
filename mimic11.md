@@ -7,6 +7,9 @@
 #### Optimizing Leraning
 > If learning a framework's pattern will be usefull, then learn it.This has to do with <i>Reasoning and Design patterns</i>
  ##### Advice on how to keep your learning optimized:
+ - Corncerning Job opportunity: 
+ > Open Source Engineering in an area of tech of your interest is a good starting point.
+ 
 ### Important dates
 May 2023 internships:
 
