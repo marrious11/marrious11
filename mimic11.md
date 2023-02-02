@@ -9,6 +9,10 @@
  ##### Advice on how to keep your learning optimized:
  - Corncerning Job opportunity: 
  > Open Source Engineering in an area of tech of your interest is a good starting point.
+ > Sometimes you're being paid based on:
+ 1 Your ability to deliver godd work
+ 2 Your experience level
+ <p> To meet up with basis, it is therefore adviced you get so deep in a particular area in tech such that you get paid based on your level of experience.<br> The goal/ secret here is <strong> focus on growing yourself on a particular area, gain a lot of experience: </strong></p>
  
 ### Important dates
 May 2023 internships:
