@@ -2,14 +2,17 @@
 # My Academic School Calender 2022/2023
 > The lick below is a copy of Link to my official academic calendar for your *next* school term:
 > [calender of activities 2022_2023.pdf](https://github.com/marrious11/marrious11/files/10476752/calender.of.activities.2022_2023.pdf) 
+
+
 <hr>
+
 ### Some Update continuation from marrious11
 #### Optimizing Leraning
 > If learning a framework's pattern will be usefull, then learn it.This has to do with <i>Reasoning and Design patterns</i>
- ##### Advice on how to keep your learning optimized:
- - Concerning Job opportunity: 
- > Open Source Engineering in an area of tech of your interest is a good starting point.
- > Sometimes you're being paid based on:
+##### Advice on how to keep your learning optimized:
+- Concerning Job opportunity: 
+> Open Source Engineering in an area of tech of your interest is a good starting point.
+> Sometimes you're being paid based on:
  
 ✍🏿Your ability to deliver godd work
 
@@ -20,6 +23,7 @@
   - [ ] Do not bite more than you can chew 🥲!
   <p> Contribute to an Organization based of the technology you are interested in: <b>like JAVA, PYTHON, etc.</b> </p>
   <hr>
+  
 ### Important dates
 May 2023 internships:
 
