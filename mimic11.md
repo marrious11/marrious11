@@ -12,9 +12,10 @@
  > Sometimes you're being paid based on:
  
 ✍🏿Your ability to deliver godd work
+
 ✍🏿 Your experience level
 
- <p> To meet up with basis, it is therefore adviced you get so deep in a particular area in tech such that you get paid based on your level of experience.<br> The goal/ secret here is <strong> focus on growing yourself on a particular area, gain a lot of experience: </strong></p>
+ <p> To meet up with basis, it is therefore adviced you get so deep in a particular area in tech such that you get paid based on your level of experience.<br> The goal/ secret here is <strong> focus on growing yourself on a particular area, gain a lot of experience: </strong>now choose one company , work and increase your portfolio, become an expert in your domain and then expand</p>
  
 ### Important dates
 May 2023 internships:
