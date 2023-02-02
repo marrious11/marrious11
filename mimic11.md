@@ -6,7 +6,7 @@
 ### Some Update continuation from marrious11
 #### Optimizing Leraning
 > If learning a framework's pattern will be usefull, then learn it.This has to do with <i>Reasoning and Design patterns</i>
- 
+ ##### Advice on how to keep your learning optimized:
 ### Important dates
 May 2023 internships:
 
