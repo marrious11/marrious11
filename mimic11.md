@@ -25,6 +25,8 @@
   <hr>
   
 ### Important dates
+
+## 
 May 2023 internships:
 
 ✍🏿 [Intern applications](https://www.outreachy.org/apply/) are accepted from January 16, 2023 to February 6, 2023
