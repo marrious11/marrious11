@@ -58,3 +58,6 @@ What can you refer to things you discover while learning in [Buea](https://ubuea
 - [Momark](https://momark.site) `now running live`Now technically on a pause 🔄
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`. I may not take the GSoC internship again due to outreachy one
 - [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
+
+### - GDSC Hackathon Buea :)
+> 04-02-2023 : It was hot, tough, and overwhelming at the same time. I loved the challenge 🇧🇩
