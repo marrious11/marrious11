@@ -1,7 +1,7 @@
 
 # My Academic School Calender 2022/2023
 > The lick below is a copy of Link to my official academic calendar for your *next* school term:
-> [calender of activities 2022_2023.pdf](https://github.com/marrious11/marrious11/files/10476752/calender.of.activities.2022_2023.pdf) 
+> [calender of activities 2022_2023.pdf](https://github.com/marrious11/marrious11/files/10476752/calender.of.activities.2022_2023.pdf) 🦸
 
 
 <hr>
