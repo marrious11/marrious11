@@ -1,7 +1,7 @@
 
 ### My most painfull life situatuation
-######  My Academic Perfomances are dire <hr>
-<p> I have always believed in academic success,but it turned out over the years that I was maybe 100% wrong. </p>
+######  My Academic Perfomances are dire [^1] <hr>
+[^1]: <p> I have always believed in academic success,but it turned out over the years that I was maybe 100% wrong. </p>
 
 > As of first semester 2020/2021 my academic graph began to drop progressively till date: 😞 what is happening?
 > No matter how hard I pretend to have worked for each semester, my final results are always tragic 😭 `grace has left me perhaps`.
