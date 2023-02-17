@@ -1,6 +1,6 @@
 
 ### My most painfull life situatuation
-###### < My Academic Perfomances are dire <hr>
+######  My Academic Perfomances are dire <hr>
 <p> I have always believed in academic success,but it turned out over the years that I was maybe 100% wrong. </p>
 
 > As of first semester 2020/2021 my academic graph began to drop progressively till date: 😞 what is happening?
