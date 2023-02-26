@@ -14,12 +14,9 @@ I.
  Spend a little time each day thinking about the highest leverage activity available to you.
  Spend a little time each day working on it
  
- I.
-“The 2-step process for exceptional results:
- Spend a little time each day thinking about the highest leverage activity available to you.
- Spend a little time each day working on it
+​II.
+“With the creative process, the key is to create a lot and edit a lot.
+Make more than you need, then remove everything that isn’t exceptional.”
  
- I.
-“The 2-step process for exceptional results:
- Spend a little time each day thinking about the highest leverage activity available to you.
- Spend a little time each day working on it
+ III.
+“What you do on your ordinary days determines what you can achieve on your extraordinary days.”
