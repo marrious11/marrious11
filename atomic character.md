@@ -8,3 +8,18 @@ The shared identity begins to reinforce your personal identity. This is why rema
 cool
 🏩
 ###### 3-2-1: Creativity, taking action, and the two-step process for exceptional results
+
+I.
+“The 2-step process for exceptional results:
+ Spend a little time each day thinking about the highest leverage activity available to you.
+ Spend a little time each day working on it
+ 
+ I.
+“The 2-step process for exceptional results:
+ Spend a little time each day thinking about the highest leverage activity available to you.
+ Spend a little time each day working on it
+ 
+ I.
+“The 2-step process for exceptional results:
+ Spend a little time each day thinking about the highest leverage activity available to you.
+ Spend a little time each day working on it
