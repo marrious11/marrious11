@@ -1,4 +1,4 @@
-## Hello!!! 💭 😭😭
+## Hello!!! 💭 😭
 I'm Mario a Computer Science student living at [Silicon Mountain](https://g.co/kgs/ppxLEu), Buea.
 
 ## My Projects👩‍💻
