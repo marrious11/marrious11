@@ -27,7 +27,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 > Aspiring to work with [camsol.io](https://camsol.io/) or with<h3>Outreachy 💞 </h3>
 
 ### Pronoun
-- [ ] He/Him & His  😊
+- [ ] He/Him & His 😊
 
 ### Contact Me
 
