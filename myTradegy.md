@@ -13,5 +13,5 @@ GPA down in all my first 5 semesters at the University 😟, I doubt if I will s
 
 # A new start with the Outreachy Free Open Source Software  (FOSS) Contribution period
 
-[1] Start date [ 06-03-2023 ]
-[2] Deadline [ April 3th, 2023 ]
+<p> [1] Start date [ 06-03-2023 ]. </p>
+<p> [2] Deadline [ April 3th, 2023 ]! </p>
