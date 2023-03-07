@@ -1,5 +1,5 @@
 ## Hello!!! 💭
-I'm Mario a Computer Science student living at [Silicon Mountain](https://g.co/kgs/ppxLEu), Buea.
+I'm Mario Jasmine a Computer Science student living at [Silicon Mountain](https://g.co/kgs/ppxLEu), Buea.
 
 ## My Projects👩‍💻
 - [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using knowledge of computer science and mathematics.
