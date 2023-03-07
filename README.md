@@ -29,7 +29,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 > Day 2 [ 07-03-2023 ] deadline ( April 3th,2023 ).
 
 ### Pronoun
-- [ ] He/Him & His 😊
+- [ ] H... 😊
 
 ### Contact Me
 
