@@ -9,3 +9,9 @@
 <br> I need some good amount of help please 😟! <br> Reach me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com).
 
 GPA down in all my first 5 semesters at the University 😟, I doubt if I will survive this.
+
+
+# A new start with the Outreachy Free Open Source Software  (FOSS) Contribution period
+
+Start date [ 06-03-2023 ]
+Deadline [ April 3th, 2023 ]
