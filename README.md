@@ -24,7 +24,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 2. The French Language on [preply.com](https://preply.com/en/tutor/950645/?pref=MjQyODcyOA==&id=1659842056.173593)
 
 ### Interests
-> Working with<h3>Outreachy 💞 </h3>
+> With<h3>Outreachy 💞 </h3>
 > Contribution phase ongoing!
 > Day 2 [ 07-03-2023 ] deadline ( April 3th,2023 ).
 
