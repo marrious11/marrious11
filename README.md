@@ -26,7 +26,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 ### Interests
 > With<h3>Outreachy 💞 </h3>
 > Contribution phase ongoing!
-> Day 16 [ 21-03-2023 ] deadline ( April 3th,2023 ).
+>  <h2>Day 16 [ 21-03-2023 ] deadline ( April 3th,2023 ).🐪</h2>
 
 ### Pronoun
 - [ ] H... 😊
@@ -34,3 +34,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 ### Contact Me
 
 You can reach me at [`sohmarrious@gmail.com`](mailto:sohmarrious@gmail.com).🤣🤣!!
+
+### WhatsApp Me
+Use this link to join my [WhatsApp voice call](https://call.whatsapp.com/voice/d64noGo1ClGtQgdkq7eSXA): or <br>
+Use this link to join my [WhatsApp video call]( https://call.whatsapp.com/video/ZfOF9MU1gPCr76p9MZfqot): 🕵️‍♀️ 👩‍💼
