@@ -26,7 +26,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 ### Interests
 > With<h3>Outreachy 💞 </h3>
 > Contribution phase ongoing!
->  <h2>Day 22 [ 27-03-2023 ] deadline ( April 3th,2023 ).🐪</h2>
+>  <h2>Day 23 [ 28-03-2023 ] deadline ( April 3th,2023 ).🐪</h2>
 
 ### Pronoun
 - [ ] H... 😊
