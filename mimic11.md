@@ -1,3 +1,10 @@
+###  TIPS for Contributing to Open source :)
+
+- [ ]  How to understand already existing code in open source project? What are fundamentals of repository? [explore and understand large codebases](https://pncnmnp.github.io/blogs/oss-guide.html) && watch [video here](https://www.youtube.com/watch?v=kA1T0zDPtQo)
+- [ ] How to Search issues and pull request  go to [GitHub-Docs](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
+- [ ] 
+
+<hr><hr>
 
 # My Academic School Calender 2022/2023
 > The lick below is a copy of Link to my official academic calendar for your *next* school term:
@@ -6,7 +13,7 @@
 
 <hr>
 
-### Some Update continuation from marrious11
+### Some Update extension from marrious11
 #### Optimizing Leraning
 > If learning a framework's pattern will be usefull, then learn it.This has to do with <i>Reasoning and Design patterns</i>
 ##### Advice on how to keep your learning optimized:
@@ -14,14 +21,14 @@
 > Open Source Engineering in an area of tech of your interest is a good starting point.
 > Sometimes you're being paid based on:
  
-✍🏿Your ability to deliver godd work
+✍🏿Your ability to deliver good work
 
 ✍🏿 Your experience level
 
  <p> To meet up with basis, it is therefore adviced you get so deep in a particular area in tech such that you get paid based on your level of experience.<br> The goal/ secret here is <strong> focus on growing yourself on a particular area, gain a lot of experience: </strong>now choose one company , work and increase your portfolio, become an expert in your domain and then expand</p>
   - Concerning Skill set:
   - [ ] Do not bite more than you can chew 🥲!
-  <p> Contribute to an Organization based of the technology you are interested in: <b>like JAVA, PYTHON, etc.</b> </p>
+  <p> Contribute to an Organization based of the technology you are interested in: <b>like Ocaml, Typescript,JAVA, PYTHON, etc.</b> </p>
   <hr>
   
 ### Important dates
@@ -58,6 +65,7 @@ What can you refer to things you discover while learning in [Buea](https://ubuea
 - [Momark](https://momark.site) `now running live`Now technically on a paused 🔄
 - Google Summer of Code (Gsoc) @GDG Buea. `from April 2023`. I may not take the GSoC internship again due to outreachy one
 - [Outreachy](https://www.outreachy.org/)  `from May 9, 2023 to August 25, 2023`
+<hr>
 
-### - GDSC Hackathon Buea :)
-> 04-02-2023 : It was hot, tough, and overwhelming at the same time. I loved the challenge 🇧🇩
+
+
