@@ -2,7 +2,7 @@
 
 - [ ]  How to understand already existing code in open source project? What are fundamentals of repository? [explore and understand large codebases](https://pncnmnp.github.io/blogs/oss-guide.html) && watch [video here](https://www.youtube.com/watch?v=kA1T0zDPtQo)
 - [ ] How to Search issues and pull request  go to [GitHub-Docs](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
-- [ ] 
+- [ ]  Evrything you need to know about [Open Source](https://opensource.guide/): A guide to OSS
 
 <hr><hr>
 
