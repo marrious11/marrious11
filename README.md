@@ -28,7 +28,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 > Contribution phase officially closed on ( April 3th,2023 )!
 Project applications are now closed, and the intern selection will begin.
 >  <h2>Day 31 [ 04-05-2023 ] intern selection deadline ( May 4th,2023 ).🐪</h2>
-meedd
+
 ### Pronoun
 - [ ] H... 😊
 
