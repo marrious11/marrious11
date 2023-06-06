@@ -25,9 +25,8 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 
 ### Interests
 > With<h3>Outreachy 💞 </h3>
-> Contribution phase officially closed on ( April 3th,2023 )!
-Project applications are now closed, and the intern selection will begin.
->  <h2>Day 31 [ 04-05-2023 ] intern selection deadline ( May 4th,2023 ).🐪 May outreachy is gone indeed it has </h2>
+> Application  phase officially open on ( early August,2023 )!
+Stay tune.
 
 ### Pronoun
 - [ ] H... 😊
