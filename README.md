@@ -25,7 +25,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 
 ### Interests
 > With<h3>Outreachy 💞 </h3>
-> Application  phase will be officially opened on ( early August,2023 )!
+> Application  phase will be officially opened in early August 2023 )!
 Stay tune as the next round begins.
 
 ### Pronoun
