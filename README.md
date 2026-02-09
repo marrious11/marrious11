@@ -1,11 +1,10 @@
 ## Hello!!! 💭
-I'm Mario Jasmine a Computer Science student living at [Silicon Mountain](https://g.co/kgs/ppxLEu), Buea.
+Maya speaking, computer engineering student living at [Silicon Mountain](https://g.co/kgs/ppxLEu), Buea.
 
 ## My Projects👩‍💻
-- [Honex](https://honex.com), an educational and mass agro-production of honey and healthy brevagies using knowledge of computer science and mathematics.
+- [Devbyte Community](https://community-website-frontend-five.vercel.app), a  global tech Community Where Developers, Designers, and innovators come together to learn, collaborate, and grow..
+- [BuildRight](https://cef-345-group-16.vercel.app/), A public infrastructure transparency platform that tracks government and donor-funded projects in real time — promoting accountability, citizen engagement, and data-driven governance.
 - [Momark](https://momark.site), an online market, where you can buy any good from the comfort of your homes and get it delivered to you within few hours.
-- [Agentenacity](https://agentcalcul.com), an online game about computer science algo-principles. Still featuring...
-
  And see more projects on my mimic11-Github profile!
 
 
@@ -25,7 +24,7 @@ As a Computer Science student enrolled into the [University of Buea](https://ubu
 
 ### Interests
 > With<h3>Outreachy 💞 </h3>
-> Application  phase will be officially opened in early August 2023 )!
+> Application  phase will be officially opened in early Feb 6th to 13th, 2026 )!
 Stay tune as the next round begins.
 
 ### Pronoun
